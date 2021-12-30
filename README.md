@@ -93,6 +93,7 @@ New
 
 - [mTVR: Multilingual Moment Retrieval in Videos](https://arxiv.org/abs/2108.00061) `ACL 2021`
 - [MAD: A Scalable Dataset for Language Grounding in Videos from Movie Audio Descriptions](https://arxiv.org/abs/2112.00431) `arxiv 2021`
+- [AssistSR: Affordance-centric Question-driven Video Segment Retrieval](https://arxiv.org/pdf/2111.15050.pdf) `arxiv 2021`
 
 # Benchmark Results % (2021)
 
