@@ -14,8 +14,6 @@ The beginning of this stream
 
 * - [TALL Temporal Activity Localization via Language Query](http://openaccess.thecvf.com/content_iccv_2017/html/Gao_TALL_Temporal_Activity_ICCV_2017_paper.html) `ICCV 2017`.
 
-点出该问题需要解决的两大困难：1作为跨模态任务，如何得到适当的文本和视频表示特征，以允许跨模态匹配操作和完成语言查询。2理论上可以生成无限粒度的视频片段，然后逐一比较。但时间消耗过大，那么如何能够从有限粒度的滑动窗口做到准确的具体帧定位。
-
 特征抽取--使用全局的sentence2vec和C3D; 多模态交互。
 
 ![TALL / CTRL](figs/TALL.png)
