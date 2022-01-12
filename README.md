@@ -14,13 +14,9 @@ The beginning of this stream
 
 * - [TALL Temporal Activity Localization via Language Query](http://openaccess.thecvf.com/content_iccv_2017/html/Gao_TALL_Temporal_Activity_ICCV_2017_paper.html) `ICCV 2017`.
 
-特征抽取--使用全局的sentence2vec和C3D; 多模态交互。
-
 ![TALL / CTRL](figs/TALL.png)
 
 * - [Localizing Moments in Video with Natural Language](https://openaccess.thecvf.com/content_iccv_2017/html/Hendricks_Localizing_Moments_in_ICCV_2017_paper.html) `ICCV2017`.
-
-特征抽取--使用全局的LSTM和VGG; 无多模态交互。
 
 ![MCN](figs/MCN.png)
 
@@ -30,11 +26,21 @@ The beginning of this stream
 
 * - [Attentive Moment Retrieval in Videos](https://dl.acm.org/doi/abs/10.1145/3209978.3210003?casa_token=ZxROouILgG4AAAAA:_xPwkaKYbwslcQnqEbrj7c4oZImYqDIVbtD0U4DJeHpKNzTknTd5qu4w5wK8NoVClmebtXU3InjS) `SIGIR 18`.
 
+* - [Temporally Grounding Natural Sentence in Video](https://aclanthology.org/D18-1015.pdf) `EMNLP 2018`
+
 # 2019
+
+* - [To Find Where You Talk: Temporal Sentence Localization in Video with Attention Based Location Regression](https://ojs.aaai.org/index.php/AAAI/article/view/4950) `AAAI 2019`
+
+* - [Cross-Modal Video Moment Retrieval with Spatial and Language-Temporal Attention](https://dl.acm.org/doi/abs/10.1145/3323873.3325019) `ICMR 2019`
+
+* - [Cross-Modal Interaction Networks for Query-Based Moment Retrieval in Videos](https://dl.acm.org/doi/abs/10.1145/3331184.3331235) `SIGIR 2019`
+
+* - [Semantic Proposal for Activity Localization in Videos via Sentence Query](https://ojs.aaai.org/index.php/AAAI/article/view/4830) `AAAI 2019`
 
 * - [Read, Watch, and Move Reinforcement Learning for Temporally Grounding Natural Language Descriptions in Videos] `AAAI 2019`
 
-* - [MAN Moment Alignment Network for Natural Language Moment Retrieval via Iterative Graph Adjustment] `CVPR 2019`
+* - [MAN Moment Alignment Network for Natural Language Moment Retrieval via Iterative Graph Adjustment](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_MAN_Moment_Alignment_Network_for_Natural_Language_Moment_Retrieval_via_CVPR_2019_paper.html) `CVPR 2019`
  
 * - [Language-Driven Temporal Activity Localization A Semantic Matching Reinforcement Learning Model] `CVPR 2019`
 
@@ -42,7 +48,9 @@ The beginning of this stream
 
 # 2020
 
-* - [Learning 2D Temporal Adjacent Networks for Moment Localization with Natural Language] `AAAI 2020`
+* - [Learning 2D Temporal Adjacent Networks for Moment Localization with Natural Language](https://ojs.aaai.org/index.php/AAAI/article/view/6984) `AAAI 2020`
+
+* - [Adversarial Video Moment Retrieval by Jointly Modeling Ranking and Localization](https://dl.acm.org/doi/10.1145/3394171.3413841) `MM 20`
 
 * - [Moment Retrieval via Cross-Modal Interaction Networks With Query Reconstruction] `TIP 2020`
 
